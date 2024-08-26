@@ -1,0 +1,14 @@
+C:\Users\punza\Desktop\ShopCoffee\bin\Debug\net8.0\ShopCoffee.exe
+C:\Users\punza\Desktop\ShopCoffee\bin\Debug\net8.0\ShopCoffee.deps.json
+C:\Users\punza\Desktop\ShopCoffee\bin\Debug\net8.0\ShopCoffee.runtimeconfig.json
+C:\Users\punza\Desktop\ShopCoffee\bin\Debug\net8.0\ShopCoffee.dll
+C:\Users\punza\Desktop\ShopCoffee\bin\Debug\net8.0\ShopCoffee.pdb
+C:\Users\punza\Desktop\ShopCoffee\obj\Debug\net8.0\ShopCoffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\punza\Desktop\ShopCoffee\obj\Debug\net8.0\ShopCoffee.AssemblyInfoInputs.cache
+C:\Users\punza\Desktop\ShopCoffee\obj\Debug\net8.0\ShopCoffee.AssemblyInfo.cs
+C:\Users\punza\Desktop\ShopCoffee\obj\Debug\net8.0\ShopCoffee.csproj.CoreCompileInputs.cache
+C:\Users\punza\Desktop\ShopCoffee\obj\Debug\net8.0\ShopCoffee.dll
+C:\Users\punza\Desktop\ShopCoffee\obj\Debug\net8.0\refint\ShopCoffee.dll
+C:\Users\punza\Desktop\ShopCoffee\obj\Debug\net8.0\ShopCoffee.pdb
+C:\Users\punza\Desktop\ShopCoffee\obj\Debug\net8.0\ShopCoffee.genruntimeconfig.cache
+C:\Users\punza\Desktop\ShopCoffee\obj\Debug\net8.0\ref\ShopCoffee.dll
